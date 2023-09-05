@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "835109086614",
+    "firebase_url": "https://literature-cad31.firebaseio.com",
+    "project_id": "literature-cad31",
+    "storage_bucket": "literature-cad31.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:835109086614:android:abe9683dcb340d0715e9b7",
+        "android_client_info": {
+          "package_name": "com.letovo_outside.letovo_outside"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "835109086614-ercsgs8qsd4pppopkg45odskfbbfc151.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFd6LeTAz12KabjstWOZv48BSyyF9nEgc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "835109086614-ercsgs8qsd4pppopkg45odskfbbfc151.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "835109086614-lqro7vv996uq12m9f88rke37rf294klc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.letovooutside.letovoOutside"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
